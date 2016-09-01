@@ -32,8 +32,8 @@ import com.atlassian.util.concurrent.Promise;
 public class Demo {
 
 	public static String URL = "razorthink.atlassian.net";
-	public static String USERNAME = "keerthi	";
-	public static String PASSWORD = "raz0rth1nk";
+	public static String USERNAME = "";
+	public static String PASSWORD = "";
 
 	public static void main( String[] args )
 	{
