@@ -11,8 +11,8 @@ public class Example1 {
 
 	private static URI jiraServerUri = URI.create("http://localhost:8888/");
 	public static String URL = "http://razorthink.atlassian.net";
-	public static String USERNAME = "keerthi";
-	public static String PASSWORD = "raz0rth1nk";
+	public static String USERNAME = "";
+	public static String PASSWORD = "";
 	public Example1() throws IOException
 	{
 		final AsynchronousJiraRestClientFactory factory = new AsynchronousJiraRestClientFactory();
